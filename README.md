@@ -1,5 +1,5 @@
 ## Crown Clothing 
-In progress @ https://mycrwn-clothing.herokuapp.com/
+https://mycrwn-clothing.herokuapp.com/
 
 
 
